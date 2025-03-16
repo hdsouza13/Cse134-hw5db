@@ -1,37 +1,37 @@
 [
-  {
-    "project": "Regency Young Scholar Science Program",
-    "imgSrc": "../IMG_0021.jpg",
-    "imgAlt": "Regency group image",
-    "description": "The Regency Young Scholar Science Program aims to bridge the gap in science education for children who may not have access to hands-on learning experiences...",
-    "link": "https://childcarecenter.us/provider_detail/young_scholars_academy_draper_ut"
-  },
-  {
-    "project": "Website Project",
-    "imgSrc": "../weblogo.png",
-    "imgAlt": "Web page logo",
-    "description": "This video showcases a preliminary design of the website project that I participated in...",
-    "link": "webvideo.html"
-  },
-  {
-    "project": "Nasa California Space Grant Consortium",
-    "imgSrc": "../nasalogo.png",
-    "imgAlt": "Nasa logo",
-    "description": "The Lunar Lava Tube Exploration challenge tasks teams with exploring a lunar lava tube...",
-    "link": "https://casgc.ucsd.edu/"
-  },
-  {
-    "project": "OCC Caculus Tutor",
-    "imgSrc": "../occlogo.png",
-    "imgAlt": "OCC logo",
-    "description": "Tutored students in Calculus 1, 2, and 3 at Orange Coast College...",
-    "link": "https://orangecoastcollege.edu/services-support/tutoring-services/"
-  },
-  {
-    "project": "Tennis Assistant",
-    "imgSrc": "../tennislogo.png",
-    "imgAlt": "Tennis logo",
-    "description": "Assisted my coach in teaching a group of 10 children from a community to play tennis...",
-    "link": "https://www.clubepitangueiras.com.br/tenis.html"
-  }
+  { 
+      "project": "Regency Young Scholar Science Program",
+      "imgSrc": "../IMG_0021.jpg",
+      "imgAlt": "Regency group image",
+      "description": "The Regency Young Scholar Science Program aims to bridge the gap in science education for children who may not have access to hands-on learning experiences...",
+      "link": "https://childcarecenter.us/provider_detail/young_scholars_academy_draper_ut"
+    },
+    {
+      "project": "Website Project",
+      "imgSrc": "../weblogo.png",
+      "imgAlt": "Web page logo",
+      "description": "This video showcases a preliminary design of the website project that I participated in...",
+      "link": "webvideo.html"
+    },
+    {
+      "project": "Nasa California Space Grant Consortium",
+      "imgSrc": "../nasalogo.png",
+      "imgAlt": "Nasa logo",
+      "description": "The Lunar Lava Tube Exploration challenge tasks teams with exploring a lunar lava tube...",
+      "link": "https://casgc.ucsd.edu/"
+    },
+    {
+      "project": "OCC Caculus Tutor",
+      "imgSrc": "../occlogo.png",
+      "imgAlt": "OCC logo",
+      "description": "Tutored students in Calculus 1, 2, and 3 at Orange Coast College...",
+      "link": "https://orangecoastcollege.edu/services-support/tutoring-services/"
+    },
+    {
+      "project": "Tennis Assistant",
+      "imgSrc": "../tennislogo.png",
+      "imgAlt": "Tennis logo",
+      "description": "Assisted my coach in teaching a group of 10 children from a community to play tennis...",
+      "link": "https://www.clubepitangueiras.com.br/tenis.html"
+    }
 ]
